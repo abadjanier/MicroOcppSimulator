@@ -12,4 +12,4 @@
 	url = https://github.com/cesanta/mongoose
 [submodule "webapp-src"]
 	path = webapp-src
-	url = https://github.com/abadjanier/micro-ocpp-dashboard@master
+	url = https://github.com/abadjanier/micro-ocpp-dashboard
